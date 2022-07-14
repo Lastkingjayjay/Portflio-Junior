@@ -191,9 +191,9 @@ a {
     color: white;
     text-align: center;
   }
-}
-.headshot {
-  width: 200px;
-  border-radius: 150px;
-  border: solid black 1px;
+  .headshot {
+    width: 200px;
+    border-radius: 150px;
+    border: solid black 1px;
+  }
 }
