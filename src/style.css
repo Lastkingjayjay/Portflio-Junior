@@ -107,7 +107,6 @@ p {
 .headshot {
   width: 300px;
   border-radius: 150px;
-  border: solid black 1px;
 }
 .headshot-container {
   display: flex;
@@ -194,6 +193,5 @@ a {
   .headshot {
     width: 20vh;
     border-radius: 150px;
-    border: solid black 1px;
   }
 }
