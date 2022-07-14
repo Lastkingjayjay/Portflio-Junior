@@ -188,4 +188,7 @@ a {
     color: white;
     text-align: center;
   }
+  * {
+    background-color: royalblue;
+  }
 }
