@@ -192,7 +192,7 @@ a {
     text-align: center;
   }
   .headshot {
-    width: 100px;
+    width: 20vh;
     border-radius: 150px;
     border: solid black 1px;
   }
