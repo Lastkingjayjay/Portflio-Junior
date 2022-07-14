@@ -175,3 +175,17 @@ a {
     display: none;
   }
 }
+@media only screen and (max-width: 480px) {
+  .hero {
+    background-color: #1c1d25;
+    height: 50vh;
+    color: white;
+    font-size: 10px;
+  }
+  footer {
+    padding: 80px;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+}
