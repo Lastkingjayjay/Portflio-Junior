@@ -117,6 +117,7 @@ p {
   height: 500px;
   box-shadow: 5px 5px 20px rgb(197, 195, 195);
   margin: 10px;
+  font-size: 10px;
 }
 .project-container {
   display: flex;
